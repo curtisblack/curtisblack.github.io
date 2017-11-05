@@ -31,7 +31,7 @@ Then download and run LCAD. It should find the location you installed LDraw and 
 This is a visual of all the supported LDraw materials rendered with the default renderer.
 ![](colours.png)
 ### Path Traced Render Examples
-These are a few examples of models exported using Path Traced rendering. Each example uses a different environment map which can be loaded from any spherically mapped image (including HDR files).
+These are a few examples of models exported using Path Traced rendering. Each example uses a different environment map which can be loaded from any spherically mapped image (including HDR files). Right click and open image in a new tab to see bigger versions of each image.
 This is a car rendered with an overcast environment.
 ![](42056.png)
 Iron-man on a sunny station with a direct light.
