@@ -42,5 +42,7 @@ No direct light here, only the white environment.
 ![](venator.png)
 A direct light for the sun in an overcast environment.
 ![](town.png)
+A shot in the town showing camera depth of field effects for a 24mm lens at f/2.0. The scene is lit the same as above but also include an area light on each street lamp.
+![](dof.png)
 A render of the supported LDraw materials. From top left to bottom right: Rubber, Pearlescent (this is an old image from a version before textures where added), Normal ABS plastic, Chrome, Speckle, Glitter (with internal glitter flakes), Clear ABS, Gold Metal, Clear Rubber.
 ![](cornell.png)
