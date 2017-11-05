@@ -14,6 +14,7 @@ LCAD is a Windows LDraw editor which lets you create virtual LEGO models.
 - Unlimited editing viewports.
 
 ## Download
+Watch this space for a beta version 1.0 soon!
 
 ## Getting Started
 First, head over to [LDraw.org](http://www.ldraw.org/) and run the All-In-One installer to get the LDraw parts library.
