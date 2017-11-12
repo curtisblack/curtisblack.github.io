@@ -32,17 +32,24 @@ This is a visual of all the supported LDraw materials rendered with the default 
 ![](colours.png)
 ### Path Traced Render Examples
 These are a few examples of models exported using Path Traced rendering. Each example uses a different environment map which can be loaded from any spherically mapped image (including HDR files). Right click and open image in a new tab to see bigger versions of each image.
-This is a car rendered with an overcast environment.
+
+This is a car rendered with an overcast HDR environment. No direct lights. Floor shadows enabled.
 ![](42056.png)
-Iron-man on a sunny station with a direct light.
+
+Iron-man on a sunny station HDR image with a direct light. Floor shadows enabled.
 ![](ironman.png)
-A star destroyer lit with only a direct light.
+
+A star destroyer lit with only a direct light. No floor. Non HDR background.
 ![](ISD.png)
-No direct light here, only the white environment.
+
+No direct light here, only the white environment and floor shadows.
 ![](venator.png)
+
 A direct light for the sun in an overcast environment.
 ![](town.png)
-A shot in the town showing camera depth of field effects for a minifig scale camera and 24mm lens at f/2.0. The scene is lit the same as above but also include an area light on each street lamp.
+
+A shot in the town showing camera depth of field effects for a minifig scale camera and 24mm lens at f/2.0. The scene is lit the same as above but also include an area light on each street lamp. The amount of background blur has been scaled to the amount it would be if the picture was taken by a minifig sized camera.
 ![](dof.png)
+
 A render of the supported LDraw materials. From top left to bottom right: Rubber, Pearlescent (this is an old image from a version before textures where added), Normal ABS plastic, Chrome, Speckle, Glitter (with internal glitter flakes), Clear ABS, Gold Metal, Clear Rubber.
 ![](cornell.png)
